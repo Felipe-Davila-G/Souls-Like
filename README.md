@@ -38,7 +38,7 @@ Este es un videojuego que se inspira en la saga Souls, tanto en la tematica, la 
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone https://github.com/STEFANYMS/v0-dislexialab.git
+git clone https://github.com/Felipe-Davila-G/Souls-Like.git
 cd dislexia-diagnostico-app
 npm install
 npm run dev
