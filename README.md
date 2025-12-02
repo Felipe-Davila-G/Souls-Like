@@ -39,4 +39,4 @@ Clona el repositorio e instala las dependencias:
 
 ```bash
 git clone https://github.com/Felipe-Davila-G/Souls-Like.git
-c
+
